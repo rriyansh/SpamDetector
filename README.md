@@ -35,9 +35,13 @@ Scikit-learn<br>
 
 spam-email-detector<br>
 │<br>
-├── spam_detector.py<br>
-├── requirements.txt<br>
-└── README.md
+SpamDetector
+│
+├── spam_detector.py
+├── spam.csv
+├── requirements.txt
+├── README.md
+└── model
 
 ## ▶️ How to Run
 
