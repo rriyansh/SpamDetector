@@ -131,3 +131,12 @@ Add support for email datasets from different sources<br>
 Build a web interface using Flask or Streamlit<br>
 Deploy the model as an API<br>
 Improve accuracy using advanced NLP techniques
+
+---
+
+## Recent Updates
+
+Added text preprocessing for better message cleaning
+Added model accuracy display after training
+Improved code structure using functions
+Added requirements.txt for dependency management.
