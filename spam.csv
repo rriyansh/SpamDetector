@@ -1,0 +1,4 @@
+##spam.csv
+
+This file contains the dataset used to train the spam detection model.
+Each message is labeled as spam or not spam.
